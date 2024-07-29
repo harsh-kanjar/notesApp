@@ -1,1 +1,1 @@
-# notesApp
+# MERN-Project
