@@ -1,0 +1,35 @@
+ i{
+    cursor: pointer;
+ }
+
+ /* about page */
+ .bg-mission {
+   background-color: #f0f8ff; /* AliceBlue */
+   padding: 20px;
+   border-radius: 10px;
+ }
+ 
+ .bg-features {
+   background-color: #e6f7ff; /* Light Cyan */
+   padding: 20px;
+   border-radius: 10px;
+ }
+ 
+ .bg-tech {
+   background-color: #f9f9f9; /* Light Gray */
+   padding: 20px;
+   border-radius: 10px;
+ }
+ 
+ .bg-why-choose {
+   background-color: #fff5e6; /* Light Orange */
+   padding: 20px;
+   border-radius: 10px;
+ }
+ 
+ .bg-get-in-touch {
+   background-color: #e6ffe6; /* Light Green */
+   padding: 20px;
+   border-radius: 10px;
+ }
+ 
